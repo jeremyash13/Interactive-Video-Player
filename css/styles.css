@@ -23,6 +23,7 @@ p {
   margin-bottom: 1.3em;
 }
 
+/*class injected onto <span> elements by main.js */
 .caption-highlight {
   color: orange;
 }
